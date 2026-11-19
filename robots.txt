@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /drafts/
+
+Sitemap: https://www.acheating.gg/sitemap.xml
